@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-06T07:19:32.258Z",
+  "updatedAt": "2026-08-06T07:19:54.327Z",
   "problems": [
     {
       "frontendId": "13",
@@ -62,7 +62,7 @@
           "filename": "0071-simplify-path.py",
           "path": "0071-simplify-path/0071-simplify-path.py",
           "sha": "2bebd860901944e4648de91a1ae37d8322a2b1f2",
-          "lastSyncedAt": "2026-08-06T05:37:42.056Z"
+          "lastSyncedAt": "2026-08-06T07:19:54.327Z"
         }
       ]
     }
