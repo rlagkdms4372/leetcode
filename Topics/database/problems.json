@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-06T05:38:13.502Z",
+  "updatedAt": "2026-08-06T05:38:17.829Z",
   "problems": [
     {
       "frontendId": "180",
@@ -23,6 +23,26 @@
           "path": "0180-consecutive-numbers/0180-consecutive-numbers.sql",
           "sha": "493203b954b949596567de23cb59403221fe0048",
           "lastSyncedAt": "2026-08-06T05:38:09.537Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "184",
+      "title": "Department Highest Salary",
+      "slug": "department-highest-salary",
+      "problemName": "0184-department-highest-salary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/department-highest-salary/",
+      "folderPath": "0184-department-highest-salary/",
+      "readmePath": "0184-department-highest-salary/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0184-department-highest-salary.sql",
+          "path": "0184-department-highest-salary/0184-department-highest-salary.sql",
+          "sha": "2c89b79d900cf935d40366be1dd715027506f2f0",
+          "lastSyncedAt": "2026-08-06T05:38:17.829Z"
         }
       ]
     },
