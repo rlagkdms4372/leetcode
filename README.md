@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 19 | 8 | 10 | 1 |
+| 20 | 9 | 10 | 1 |
 
 ## Activity
 
@@ -25,22 +25,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-02-11 | 4 |
 | 2026-02-17 | 2 |
 | 2026-05-14 | 4 |
-| 2026-08-06 | 2 |
+| 2026-08-06 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 11 | 58% |
-| Array | 4 | 21% |
-| Stack | 4 | 21% |
-| String | 2 | 11% |
+| Database | 11 | 55% |
+| Array | 4 | 20% |
+| Stack | 4 | 20% |
+| String | 3 | 15% |
+| Hash Table | 2 | 10% |
+| Math | 2 | 10% |
 | Boyer–Moore Majority Vote Algorithm | 1 | 5% |
 | Bracket Sequences | 1 | 5% |
 | Counting | 1 | 5% |
 | Design | 1 | 5% |
-| Divide and Conquer | 1 | 5% |
-| Dynamic Programming | 1 | 5% |
 
 ## Topics
 
@@ -60,14 +60,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 1 |
+| [Hash Table](Topics/hash-table/) | 2 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 1 |
+| [Math](Topics/math/) | 2 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 2 |
+| [String](Topics/string/) | 3 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
