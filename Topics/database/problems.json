@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-06T05:38:47.622Z",
+  "updatedAt": "2026-08-06T05:38:51.130Z",
   "problems": [
     {
       "frontendId": "178",
@@ -143,6 +143,26 @@
           "path": "0607-sales-person/0607-sales-person.sql",
           "sha": "05cc3bf382624382ad05be9219aed435b2b8e4c3",
           "lastSyncedAt": "2026-08-06T05:38:47.622Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "608",
+      "title": "Tree Node",
+      "slug": "tree-node",
+      "problemName": "0608-tree-node",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/tree-node/",
+      "folderPath": "0608-tree-node/",
+      "readmePath": "0608-tree-node/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0608-tree-node.sql",
+          "path": "0608-tree-node/0608-tree-node.sql",
+          "sha": "f1af3089894bdac0a5cb99dfbe3017d33b20e477",
+          "lastSyncedAt": "2026-08-06T05:38:51.130Z"
         }
       ]
     },
