@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 18 | 7 | 10 | 1 |
+| 19 | 8 | 10 | 1 |
 
 ## Activity
 
@@ -25,28 +25,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-02-11 | 4 |
 | 2026-02-17 | 2 |
 | 2026-05-14 | 4 |
-| 2026-08-06 | 1 |
+| 2026-08-06 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 11 | 61% |
-| Stack | 4 | 22% |
-| Array | 3 | 17% |
+| Database | 11 | 58% |
+| Array | 4 | 21% |
+| Stack | 4 | 21% |
 | String | 2 | 11% |
-| Boyer–Moore Majority Vote Algorithm | 1 | 6% |
-| Bracket Sequences | 1 | 6% |
-| Counting | 1 | 6% |
-| Design | 1 | 6% |
-| Divide and Conquer | 1 | 6% |
-| Hash Table | 1 | 6% |
+| Boyer–Moore Majority Vote Algorithm | 1 | 5% |
+| Bracket Sequences | 1 | 5% |
+| Counting | 1 | 5% |
+| Design | 1 | 5% |
+| Divide and Conquer | 1 | 5% |
+| Dynamic Programming | 1 | 5% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 3 |
+| [Array](Topics/array/) | 4 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -58,7 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Database](Topics/database/) | 11 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 0 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 1 |
 | [Heap](Topics/heap/) | 0 |
