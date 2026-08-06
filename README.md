@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 19 | 9 | 9 | 1 |
+| 20 | 10 | 9 | 1 |
 
 ## Activity
 
@@ -24,18 +24,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-02-11 | 4 |
 | 2026-02-17 | 2 |
 | 2026-05-14 | 4 |
-| 2026-08-06 | 3 |
+| 2026-08-06 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 11 | 58% |
-| Array | 4 | 21% |
-| Stack | 3 | 16% |
-| String | 3 | 16% |
-| Hash Table | 2 | 11% |
-| Math | 2 | 11% |
+| Database | 12 | 60% |
+| Array | 4 | 20% |
+| Stack | 3 | 15% |
+| String | 3 | 15% |
+| Hash Table | 2 | 10% |
+| Math | 2 | 10% |
 | Boyer–Moore Majority Vote Algorithm | 1 | 5% |
 | Bracket Sequences | 1 | 5% |
 | Counting | 1 | 5% |
@@ -54,7 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Database](Topics/database/) | 11 |
+| [Database](Topics/database/) | 12 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
