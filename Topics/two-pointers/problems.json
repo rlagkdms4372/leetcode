@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-06T05:37:57.741Z",
+  "updatedAt": "2026-08-06T07:20:01.510Z",
   "problems": [
     {
       "frontendId": "26",
@@ -22,7 +22,7 @@
           "filename": "0026-remove-duplicates-from-sorted-array.py",
           "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py",
           "sha": "d9c43a2888c9fa7159c4b2033c80b1792d68093d",
-          "lastSyncedAt": "2026-08-06T05:37:57.741Z"
+          "lastSyncedAt": "2026-08-06T07:20:01.510Z"
         }
       ]
     }
