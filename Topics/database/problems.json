@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-06T05:38:09.537Z",
+  "updatedAt": "2026-08-06T05:38:13.502Z",
   "problems": [
     {
       "frontendId": "180",
@@ -23,6 +23,26 @@
           "path": "0180-consecutive-numbers/0180-consecutive-numbers.sql",
           "sha": "493203b954b949596567de23cb59403221fe0048",
           "lastSyncedAt": "2026-08-06T05:38:09.537Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "185",
+      "title": "Department Top Three Salaries",
+      "slug": "department-top-three-salaries",
+      "problemName": "0185-department-top-three-salaries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/department-top-three-salaries/",
+      "folderPath": "0185-department-top-three-salaries/",
+      "readmePath": "0185-department-top-three-salaries/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0185-department-top-three-salaries.sql",
+          "path": "0185-department-top-three-salaries/0185-department-top-three-salaries.sql",
+          "sha": "12ead2e785cb266b51ca8dcf9ed4097dd77d576d",
+          "lastSyncedAt": "2026-08-06T05:38:13.502Z"
         }
       ]
     },
