@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-06T07:20:14.865Z",
+  "updatedAt": "2026-08-06T07:20:16.515Z",
   "problems": [
     {
       "frontendId": "178",
@@ -22,7 +22,7 @@
           "filename": "0178-rank-scores.sql",
           "path": "0178-rank-scores/0178-rank-scores.sql",
           "sha": "89f11ca1b3787ab8dcd9dce0971f261d04598804",
-          "lastSyncedAt": "2026-08-06T05:38:28.978Z"
+          "lastSyncedAt": "2026-08-06T07:20:16.515Z"
         }
       ]
     },
