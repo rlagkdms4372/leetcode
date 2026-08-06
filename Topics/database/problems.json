@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-06T07:20:19.870Z",
+  "updatedAt": "2026-08-06T07:20:21.761Z",
   "problems": [
     {
       "frontendId": "178",
@@ -222,7 +222,7 @@
           "filename": "1204-last-person-to-fit-in-the-bus.sql",
           "path": "1204-last-person-to-fit-in-the-bus/1204-last-person-to-fit-in-the-bus.sql",
           "sha": "9ad41fa01275bef0895f1de3f6709e39582602f0",
-          "lastSyncedAt": "2026-08-06T05:38:40.344Z"
+          "lastSyncedAt": "2026-08-06T07:20:21.761Z"
         }
       ]
     }
