@@ -4,6 +4,27 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-08-06T05:17:26.802Z",
-  "problems": []
+  "updatedAt": "2026-08-06T05:37:32.852Z",
+  "problems": [
+    {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "problemName": "0150-evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "folderPath": "0150-evaluate-reverse-polish-notation/",
+      "readmePath": "0150-evaluate-reverse-polish-notation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0150-evaluate-reverse-polish-notation.py",
+          "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py",
+          "sha": "75169deeb2036538e072ce8973903bdaf8fe4c14",
+          "lastSyncedAt": "2026-08-06T05:37:32.852Z"
+        }
+      ]
+    }
+  ]
 }
