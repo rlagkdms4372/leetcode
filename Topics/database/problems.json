@@ -4,8 +4,28 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-06T05:38:03.918Z",
+  "updatedAt": "2026-08-06T05:38:09.537Z",
   "problems": [
+    {
+      "frontendId": "180",
+      "title": "Consecutive Numbers",
+      "slug": "consecutive-numbers",
+      "problemName": "0180-consecutive-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/consecutive-numbers/",
+      "folderPath": "0180-consecutive-numbers/",
+      "readmePath": "0180-consecutive-numbers/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0180-consecutive-numbers.sql",
+          "path": "0180-consecutive-numbers/0180-consecutive-numbers.sql",
+          "sha": "493203b954b949596567de23cb59403221fe0048",
+          "lastSyncedAt": "2026-08-06T05:38:09.537Z"
+        }
+      ]
+    },
     {
       "frontendId": "197",
       "title": "Rising Temperature",
