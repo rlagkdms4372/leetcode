@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-06T05:38:21.525Z",
+  "updatedAt": "2026-08-06T05:38:25.256Z",
   "problems": [
     {
       "frontendId": "180",
@@ -83,6 +83,26 @@
           "path": "0197-rising-temperature/0197-rising-temperature.sql",
           "sha": "7fbc27c01ec75edb1bdaa12ddff3ee5097a09432",
           "lastSyncedAt": "2026-08-06T05:38:03.918Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "511",
+      "title": "Game Play Analysis I",
+      "slug": "game-play-analysis-i",
+      "problemName": "0511-game-play-analysis-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/game-play-analysis-i/",
+      "folderPath": "0511-game-play-analysis-i/",
+      "readmePath": "0511-game-play-analysis-i/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0511-game-play-analysis-i.sql",
+          "path": "0511-game-play-analysis-i/0511-game-play-analysis-i.sql",
+          "sha": "363e679eb641bd198fc9a1f45699dbd73887e4e9",
+          "lastSyncedAt": "2026-08-06T05:38:25.256Z"
         }
       ]
     },
