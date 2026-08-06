@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-06T07:20:16.515Z",
+  "updatedAt": "2026-08-06T07:20:19.870Z",
   "problems": [
     {
       "frontendId": "178",
@@ -182,7 +182,7 @@
           "filename": "0626-exchange-seats.sql",
           "path": "0626-exchange-seats/0626-exchange-seats.sql",
           "sha": "e77ef8ce6a04a7962c360856ecaa3179ba5c6a8d",
-          "lastSyncedAt": "2026-08-06T05:38:35.303Z"
+          "lastSyncedAt": "2026-08-06T07:20:19.870Z"
         }
       ]
     },
