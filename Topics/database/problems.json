@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-06T05:38:40.344Z",
+  "updatedAt": "2026-08-06T05:38:47.622Z",
   "problems": [
     {
       "frontendId": "178",
@@ -123,6 +123,26 @@
           "path": "0511-game-play-analysis-i/0511-game-play-analysis-i.sql",
           "sha": "363e679eb641bd198fc9a1f45699dbd73887e4e9",
           "lastSyncedAt": "2026-08-06T05:38:25.256Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "607",
+      "title": "Sales Person",
+      "slug": "sales-person",
+      "problemName": "0607-sales-person",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sales-person/",
+      "folderPath": "0607-sales-person/",
+      "readmePath": "0607-sales-person/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0607-sales-person.sql",
+          "path": "0607-sales-person/0607-sales-person.sql",
+          "sha": "05cc3bf382624382ad05be9219aed435b2b8e4c3",
+          "lastSyncedAt": "2026-08-06T05:38:47.622Z"
         }
       ]
     },
