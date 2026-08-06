@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-06T06:45:28.805Z",
+  "updatedAt": "2026-08-06T07:19:37.219Z",
   "problems": [
     {
       "frontendId": "121",
@@ -22,7 +22,7 @@
           "filename": "0121-best-time-to-buy-and-sell-stock.py",
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
           "sha": "a0ff5daa047dfd13a3431236500103ef9bf20f35",
-          "lastSyncedAt": "2026-08-06T06:45:28.805Z"
+          "lastSyncedAt": "2026-08-06T07:19:37.219Z"
         }
       ]
     }
