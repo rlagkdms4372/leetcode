@@ -6,21 +6,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 9 | 10 | 1 |
+| 19 | 9 | 9 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 10 |
+| 1 days | 3 days | 9 |
 
 | Date | Problems |
 | --- | ---: |
-| 2025-10-15 | 1 |
-| 2025-11-18 | 1 |
 | 2025-11-27 | 1 |
 | 2026-02-03 | 1 |
 | 2026-02-04 | 1 |
+| 2026-02-05 | 1 |
 | 2026-02-10 | 2 |
 | 2026-02-11 | 4 |
 | 2026-02-17 | 2 |
@@ -31,16 +30,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 11 | 55% |
-| Array | 4 | 20% |
-| Stack | 4 | 20% |
-| String | 3 | 15% |
-| Hash Table | 2 | 10% |
-| Math | 2 | 10% |
+| Database | 11 | 58% |
+| Array | 4 | 21% |
+| Stack | 3 | 16% |
+| String | 3 | 16% |
+| Hash Table | 2 | 11% |
+| Math | 2 | 11% |
 | Boyer–Moore Majority Vote Algorithm | 1 | 5% |
 | Bracket Sequences | 1 | 5% |
 | Counting | 1 | 5% |
-| Design | 1 | 5% |
+| Divide and Conquer | 1 | 5% |
 
 ## Topics
 
