@@ -6,13 +6,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 10 | 9 | 1 |
+| 21 | 10 | 10 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 3 days | 9 |
+| 2 days | 3 days | 10 |
 
 | Date | Problems |
 | --- | ---: |
@@ -25,27 +25,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-02-17 | 2 |
 | 2026-05-14 | 4 |
 | 2026-08-06 | 4 |
+| 2026-08-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 12 | 60% |
-| Array | 4 | 20% |
-| Stack | 3 | 15% |
-| String | 3 | 15% |
+| Database | 12 | 57% |
+| Array | 5 | 24% |
+| Stack | 3 | 14% |
+| String | 3 | 14% |
 | Hash Table | 2 | 10% |
 | Math | 2 | 10% |
+| Two Pointers | 2 | 10% |
 | Boyer–Moore Majority Vote Algorithm | 1 | 5% |
 | Bracket Sequences | 1 | 5% |
 | Counting | 1 | 5% |
-| Divide and Conquer | 1 | 5% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 4 |
+| [Array](Topics/array/) | 5 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -68,5 +69,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 3 |
-| [Two Pointers](Topics/two-pointers/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 2 |
 <!---LeetHub Summary End-->
