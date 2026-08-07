@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-06T07:31:13.757Z",
+  "updatedAt": "2026-08-07T10:23:58.480Z",
   "problems": [
     {
       "frontendId": "178",
@@ -203,6 +203,26 @@
           "path": "1070-product-sales-analysis-iii/1070-product-sales-analysis-iii.sql",
           "sha": "20e23dac46e67568fb23e461a6b9a2c4e3ae4540",
           "lastSyncedAt": "2026-08-06T07:20:13.176Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1193",
+      "title": "Monthly Transactions I",
+      "slug": "monthly-transactions-i",
+      "problemName": "1193-monthly-transactions-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/monthly-transactions-i/",
+      "folderPath": "1193-monthly-transactions-i/",
+      "readmePath": "1193-monthly-transactions-i/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1193-monthly-transactions-i.sql",
+          "path": "1193-monthly-transactions-i/1193-monthly-transactions-i.sql",
+          "sha": "0918e1e13086487734ab976bc3410a856f47d768",
+          "lastSyncedAt": "2026-08-07T10:23:58.480Z"
         }
       ]
     },
