@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-06T07:19:49.951Z",
+  "updatedAt": "2026-08-07T07:57:29.968Z",
   "problems": [
     {
       "frontendId": "13",
@@ -43,6 +43,26 @@
           "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py",
           "sha": "75169deeb2036538e072ce8973903bdaf8fe4c14",
           "lastSyncedAt": "2026-08-06T07:19:49.951Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "0189-rotate-array/",
+      "readmePath": "0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0189-rotate-array.py",
+          "path": "0189-rotate-array/0189-rotate-array.py",
+          "sha": "ae307cadb07a080c4af540d49c9b695b7b7da92e",
+          "lastSyncedAt": "2026-08-07T07:57:29.968Z"
         }
       ]
     }
