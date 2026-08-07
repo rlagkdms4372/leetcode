@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 23 | 11 | 11 | 1 |
+| 24 | 11 | 12 | 1 |
 
 ## Activity
 
@@ -25,14 +25,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-02-17 | 2 |
 | 2026-05-14 | 4 |
 | 2026-08-06 | 4 |
-| 2026-08-07 | 3 |
+| 2026-08-07 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 12 | 52% |
-| Array | 6 | 26% |
+| Database | 13 | 54% |
+| Array | 6 | 25% |
 | String | 4 | 17% |
 | Hash Table | 3 | 13% |
 | Math | 3 | 13% |
@@ -55,7 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Database](Topics/database/) | 12 |
+| [Database](Topics/database/) | 13 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
